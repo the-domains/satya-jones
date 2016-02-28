@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Satya Jones]]></title>
         <description><![CDATA[Satya Jones]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/satya-jones/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 17:12:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 18:41:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/satya-jones/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a10bb06-497d-4b03-b563-cbbcfaa9fe4c.jpg">]]></description>
-            <link>undefined2f178cbd-655c-439d-bb18-e12c4c545e9a/index.html</link>
+            <link>https://thegrid.ai/satya-jones/2f178cbd-655c-439d-bb18-e12c4c545e9a/index.html</link>
             <guid isPermaLink="false">2f178cbd-655c-439d-bb18-e12c4c545e9a</guid>
-            <pubDate>Sun, 28 Feb 2016 17:12:12 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2016 18:41:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
